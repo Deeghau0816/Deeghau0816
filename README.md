@@ -19,10 +19,9 @@
 
 ---
 
-<!-- The GIF is 10 seconds long; robot waves near the end of each loop. -->
-<p align="right">
-  <img src="./waving-robot.gif" width="140" alt="Waving Robot" />
-</p>
+<!-- Cute robot continuously waving; animated GIF loops automatically. -->
+<img align="right" width="185" src="./waving-robot.gif" alt="Cute AI robot waving continuously" />
+
 ### 🧠 About Me
 
 - 🎓 **Data Science undergraduate** exploring intelligent systems
