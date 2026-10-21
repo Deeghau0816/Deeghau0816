@@ -20,8 +20,9 @@
 ---
 
 <!-- The GIF is 10 seconds long; robot waves near the end of each loop. -->
-<img align="right" width="185" src="./assets/waving-robot.gif" alt="Friendly robot waving every ten seconds" />
-
+<p align="right">
+  <img src="./waving-robot.gif" width="140" alt="Waving Robot" />
+</p>
 ### 🧠 About Me
 
 - 🎓 **Data Science undergraduate** exploring intelligent systems
