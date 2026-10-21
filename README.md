@@ -1,111 +1,86 @@
-<!-- GitHub Profile README — Deeghau Vidarshana -->
+<div align="center">
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&text=Deeghau%20Vidarshana&fontAlign=50&fontAlignY=37&fontSize=46&fontColor=ffffff&color=0:0b1029,50:18315c,100:19a7ce&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlign=50&descAlignY=63&animation=fadeIn" alt="Deeghau Vidarshana banner" />
-</p>
+![Deeghau Vidarshana — Data Science, AI and Machine Learning](assets/hero.png)
 
-<h2 align="center">Hey there! I'm Deeghau 👋</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=69CBFF&center=true&vCenter=true&width=850&lines=Data+Science+Undergraduate;Data+Analyst+Intern;Aspiring+Machine+Learning+Engineer;AI+Research+Explorer;Turning+Data+Into+Intelligence" alt="Animated introduction" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=35C9FF&center=true&vCenter=true&width=780&lines=Data+Science+Undergraduate;Aspiring+Data+Scientist+%26+ML+Engineer;AI+and+Machine+Learning+Explorer;Turning+Data+into+Intelligence" alt="Animated introduction" />
-</p>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=netlify&logoColor=white)](https://dashing-torte-98bc97.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0875C9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeghau-vidarshana-2ab8932a7/) [![Email](https://img.shields.io/badge/EMAIL-C0394A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeghauv110@gmail.com)
 
-<p align="center">
-  <a href="https://dashing-torte-98bc97.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-11AACC?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/deeghau-vidarshana-2ab8932a7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Deeghau0816"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:deeghauv110@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<img src="assets/energy-wave.gif" width="100%" alt="Animated energy wave" />
 
----
+</div>
 
-<!-- Cute robot continuously waving; animated GIF loops automatically. -->
-<img align="right" width="185" src="./waving-robot.gif" alt="Cute AI robot waving continuously" />
+![About Me](assets/section-about.png)
 
-### 🧠 About Me
+<table><tr><td width="72%">
 
-- 🎓 **Data Science undergraduate** exploring intelligent systems
-- 💼 **Data Analyst Intern**, building practical analytics and data solutions
-- 🤖 Focused on **Machine Learning, AI, and Deep Learning**
-- 🔬 Interested in meaningful **AI research** and real-world applications
-- 🧩 Building end-to-end projects across **data, backend, and frontend**
-- ✨ Motto: **Turning data into intelligence, and ideas into impact.**
+### 👋 Hello!
 
-### 🎯 Currently Exploring
+I'm a **Data Science undergraduate** and **Data Analyst Intern** passionate about transforming messy data into useful intelligence. My interests include **machine learning, AI systems, research, data engineering and practical software development**.
 
-- Machine learning model development and evaluation
-- AI research methodologies and intelligent applications
-- Data engineering, ETL, warehousing, and visualization
-- Full-stack applications with modern development tools
+- 🎓 **Specialization:** Data Science
+- 💼 **Current role:** Data Analyst Intern
+- 🧠 **Exploring:** AI, ML, intelligent systems, research
+- 🛠️ **Building:** End-to-end data and software projects
+- 🌍 **Based in:** Sri Lanka
 
-<br clear="right" />
+</td><td width="28%" align="center">
 
----
+<img src="assets/waving-robot.gif" width="235" alt="Friendly AI robot waving continuously" />
 
-## ⚡ Technology Toolkit
+</td></tr></table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,fastapi,nodejs,mongodb,postgres,mysql,git,github,docker,vscode&perline=7" alt="Tech stack icons" />
-</p>
+<div align="center">
+<img src="assets/focus.png" width="100%" alt="Learning, building, exploring and career goals" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SSIS-455A64?style=flat-square" alt="SSIS" />
-  <img src="https://img.shields.io/badge/SSAS-455A64?style=flat-square" alt="SSAS" />
-</p>
+![Tech Stack](assets/section-stack.png)
 
----
+<div align="center">
 
-## 🚀 Selected Projects
+**Languages & Development**
 
-### 🏦 01 — BankGuard AI | Agentic AI Banking System
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,fastapi,nodejs,html,css,tailwind&perline=10" alt="Development technologies" />
 
-A multi-agent AI banking solution designed to handle customer intent, retrieve relevant information, match products and eligibility, and deliver explainable responses with security considerations.
+**Data Science, Machine Learning & Business Intelligence**
 
-`Agentic AI` · `Python` · `FastAPI` · `React` · `MongoDB`
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 🏨 02 — Hotel Booking Cancellation Prediction
+**Tools & Platforms**
 
-Built a machine learning workflow to predict booking cancellations from historical hotel reservation data, including preprocessing, classification model training, and performance evaluation.
+<img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,postgres,mysql,vscode,figma,postman&perline=9" alt="Tools and platforms" />
 
-`Python` · `Pandas` · `Scikit-learn` · `Random Forest` · `Gradient Boosting`
+</div>
 
-### 📊 03 — Retail Orders Data Warehouse & BI Solution
+![Featured Projects](assets/section-projects.png)
 
-Designed and implemented a retail data warehouse solution using **SQL Server** and **SSIS**, integrating data from multiple sources to support **ETL processing, analytics, and reporting**. Incorporated business intelligence tools to explore retail performance and support data-driven decisions.
+[![BANKGUARD AI](assets/project-01.png)](https://github.com/Deeghau0816)
 
-`SQL Server` · `SSIS` · `SSAS` · `Power BI` · `ETL` · `Data Warehousing`
+[![HOTEL CANCELLATION](assets/project-02.png)](https://github.com/Deeghau0816)
 
-### 🚨 04 — SafeZone | Disaster Management System
+[![RETAIL DATA WAREHOUSE](assets/project-03.png)](https://github.com/Deeghau0816)
 
-A full-stack disaster management platform for alert distribution, reporting, disaster coordination, and assistance-related workflows.
+[![SAFEZONE](assets/project-04.png)](https://github.com/Deeghau0816)
 
-`MongoDB` · `Express.js` · `React` · `Node.js`
+[![DINEFLOW](assets/project-05.png)](https://github.com/Deeghau0816/Dine-Flow)
 
-### 🍽️ 05 — DineFlow | Restaurant Management System
+<div align="center">
 
-A full-stack restaurant application for menu browsing and management, reservations, and administration.
+[![All Repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-102B53?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deeghau0816?tab=repositories)
 
-`React` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Tailwind CSS`
+<img src="assets/energy-wave.gif" width="100%" alt="Animated divider" />
 
-> 📌 Explore my repositories or portfolio for source code and project details. Repository-specific links can be added as each project is published.
+</div>
 
----
+![Let's Connect](assets/section-connect.png)
 
-## 🌐 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://dashing-torte-98bc97.netlify.app/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-11AACC?style=for-the-badge&logo=netlify&logoColor=white" alt="Explore my portfolio" /></a>
-  <a href="https://www.linkedin.com/in/deeghau-vidarshana-2ab8932a7/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:deeghauv110@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-742DCA?style=for-the-badge&logo=netlify&logoColor=white)](https://dashing-torte-98bc97.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-096AB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeghau-vidarshana-2ab8932a7/)
+[![GitHub](https://img.shields.io/badge/FOLLOW_ON_GITHUB-192C45?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deeghau0816)
+[![Email](https://img.shields.io/badge/SEND_AN_EMAIL-D53D53?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeghauv110@gmail.com)
 
-<p align="center"><i>“Turning data into intelligence, and ideas into impact.”</i></p>
+### ✦ Turning data into intelligence, and ideas into impact.
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=115&color=0:0b1029,50:18315c,100:19a7ce" alt="Footer wave" />
-</p>
+</div>
