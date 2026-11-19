@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1D4ED8,100:6D28D9&height=230&section=header&text=Deeghau%20Vidarshana&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Explainable%20AI&descAlignY=62&descSize=17" alt="Deeghau Vidarshana" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1D4ED8,100:6D28D9&height=230&section=header&text=Deeghau%20Vidarshana&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=AI%2FML%20%C2%B7%20Data%20Engineering%20%C2%B7%20Trustworthy%20AI&descAlignY=62&descSize=17" alt="Deeghau Vidarshana" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=69CBFF&center=true&vCenter=true&width=760&lines=Data+Science+Undergraduate+%40+SLIIT;Data+Analyst+Intern+%40+Michelin+Lanka;Building+ML+and+real-time+data+systems;Researching+Explainable+AI+for+finance;Turning+data+into+intelligence" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=69CBFF&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate+%40+SLIIT;Data+Analyst+Intern+%40+Michelin+Lanka;Industrial+ML+%C2%B7+Agentic+AI+%C2%B7+Data+Engineering;Researching+Explainable+and+Trustworthy+AI" alt="Typing intro" />
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deeghau0816&label=Profile+Views&color=6D28D9&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Deeghau0816?style=for-the-badge&logo=github&color=1D4ED8)
-![Repos](https://img.shields.io/badge/Focus-Data_Science_%7C_ML_%7C_XAI-0F172A?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Open_to_Internships-2EA043?style=for-the-badge)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=netlify&logoColor=white)](https://dashing-torte-98bc97.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0875C9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeghau-vidarshana-2ab8932a7/)
@@ -19,50 +17,22 @@
 
 ---
 
-## 📌 Table of Contents
-
-[About Me](#-about-me) · [What I Bring](#-what-i-bring) · [Timeline](#-career--learning-timeline) · [Flagship Projects](#-flagship-projects) · [Comparison](#-flagship-project-comparison) · [Data & BI](#-data--bi-projects) · [Other Projects](#-other-notable-projects) · [Tech Stack](#%EF%B8%8F-technology-stack) · [GitHub Stats](#-github-stats--activity) · [Summary](#-professional-summary) · [Contact](#-connect-with-me)
+[About](#-about) · [Timeline](#-career--learning-timeline) · [Experience](#-experience) · [Flagship Projects](#-flagship-projects) · [Research](#-research) · [More Projects](#-more-projects) · [Tech Stack](#%EF%B8%8F-technology-stack) · [Stats](#-github-stats--activity) · [Summary](#-professional-summary) · [Contact](#-connect-with-me)
 
 ---
 
-## 🚀 About Me
+## 🚀 About
 
-Data science undergraduate who builds **analytics, ML and real-time data systems** end to end — from raw data and pipelines to models, APIs and dashboards people actually use.
+**Data Science undergraduate and emerging AI/ML engineer** with hands-on experience in industrial machine learning, enterprise analytics, data engineering, multi-agent AI systems and trustworthy AI research.
 
-- 🎓 **Studying:** BSc (Hons) Information Technology, Data Science specialization, **SLIIT** — graduating Dec 2027
-- 💼 **Current internship:** Data Analyst Intern at **Michelin Lanka**
-- 🧠 **Currently building:** **Verity**, a forecasting pipeline (design and setup phase), and a from-scratch rebuild of my stock-forecasting work
-- 🔬 **Research direction:** Explainable AI (SHAP, LIME, attention) for financial forecasting
-- 🎯 **Long-term goal:** MSc/PhD in Data Science, ML and XAI at a US university
-- 🛠️ **Specializing in:**
-  - **Analytics & BI:** Power BI, Power Query, Power Automate, SQL Server, SSIS, SSAS, star-schema modeling
-  - **ML & AI:** scikit-learn, time-series forecasting, agentic AI, RAG / information retrieval
-  - **Real-time systems:** Socket.io, streaming data, financial APIs
-  - **Full-stack:** MERN, FastAPI, React
+- 🎓 **Studying:** BSc (Hons) IT, Data Science specialization, **SLIIT** — entering 4th year in Jan 2027, graduating Dec 2027
+- 💼 **Now:** Data Analyst Intern at **Michelin Lanka** (Ekala Tyre Division), Jun–Dec 2026
+- 🔬 **Research:** final-year project on multimodal AI for epilepsy outcome prediction (planning and development)
+- 🧪 **Building:** **Verity**, a trustworthy stock-forecasting and dip-alert system (design and setup)
+- 🎯 **Goal:** MSc/PhD in Data Science, ML and Explainable AI at a US university
+- 🧠 **Interests:** machine learning, AI/ML engineering, agentic AI, explainable and trustworthy AI, data engineering, business intelligence
 - 📍 **Based in:** Negombo, Sri Lanka
-- 👯 **Open to:** Data Analyst, Data Science, ML and AI Engineer internships, plus research collaborations
-- 💬 **Ask me about:** dashboard design, multi-agent systems, forecasting pipelines, data warehousing, MERN real-time apps
 
-### 💡 What I Bring
-
-| Strength | Evidence |
-|---|---|
-| **Analytics in a real workplace** | Multi-plant HR training dashboard in Power BI, fed by automated Excel syncing with Power Automate and Office Scripts |
-| **Agentic AI design** | BankGuard AI — 4-agent banking investigation system with explainable risk indicators and customer-approved escalation |
-| **Data warehousing rigor** | Star schema on SQL Server (185,000+ records), SCD Type 2 via SSIS, SSAS cube, Power BI Service publishing |
-| **Team leadership** | Led a team of five on SafeZone and resolved a Socket.io race condition |
-| **Research mindset** | Final-year work on explainable forecasting, aiming at a workshop or conference paper before late 2027 |
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
 
 ---
 
@@ -71,147 +41,309 @@ Data science undergraduate who builds **analytics, ML and real-time data systems
 ```text
 2027 ── Graduation (Dec) · MSc/PhD applications (US)
   │
-2026 ── Data Analyst Intern @ Michelin Lanka
-  │       └─ HR training dashboard (Power BI + Power Automate) · manufacturing data analysis
+  ├── Jan 2027 ── 4th year begins · final-year research
+  │       Multimodal AI for epilepsy outcome prediction (planning and development)
   │
-  ├── Verity ───────── forecasting pipeline · design & setup phase
+2026 ── Data Analyst Intern @ Michelin Lanka, Ekala Tyre Division (Jun–Dec)
+  │       ├─ Tyre Defect Prediction ── ML model development (in development)
+  │       ├─ HR Competency Analytics Automation ── SharePoint · Power Automate · Power BI
+  │       └─ DIBR Asia Dashboard Automation ── Power Automate · Power Apps · Power BI
   │
-  ├── BankGuard AI ─── 4-agent banking transaction investigation & escalation
-  │       FastAPI · React · MongoDB · RAG / IR
+  ├── Verity ────────── trustworthy stock forecasting and dip alerts · design and setup (planned)
   │
-  ├── Final-year research ── Explainable AI for financial forecasting
-  │
-  ├── StockFlux ────── real-time ensemble ML stock forecasting
-  │
-  ├── SafeZone ─────── MERN disaster management platform · team lead of five
-  │
-  └── Coursework projects ── Data warehousing & BI · statistics · data mining · full-stack
+  └── Projects & coursework
+          BankGuard AI (completed) · SafeZone (completed, team lead) · DineFlow (under development)
+          Retail Data Warehouse (IT3021) · Hotel Cancellation Prediction
+          Data Mining (IT3051) · Statistics (IT3011) · Incubation-Based Problem Solving (IT3071)
 ```
+
+---
+
+## 💼 Experience
+
+### Data Analyst Intern — Michelin Lanka, Ekala Tyre Division
+**Jun–Dec 2026**
+
+Industrial machine learning, manufacturing analytics, business intelligence and enterprise automation, plus collaboration with regional digital teams.
+
+| Work | Focus | My contribution |
+|---|---|---|
+| **Tyre Defect Prediction** | Industrial ML, predictive quality | ML model development: data exploration, features, training and evaluation |
+| **HR Competency Analytics Automation** | Enterprise BI, automation | Designed the automated HR reporting workflow (SharePoint, Power Automate, Power BI) |
+| **DIBR Asia Dashboard Automation** | BI, workflow automation | Built scheduled dataset-update flows; adapted solutions with Michelin's Bangkok-based regional team |
 
 ---
 
 ## 🏆 Flagship Projects
 
-Systems I designed, built and shipped — from analytics to agentic AI.
+> Systems I built and analyses I delivered, ordered by relevance to AI/ML and data engineering.
 
-### 🏦 1 — BankGuard AI — Multi-Agent Banking Investigation System
+| # | Project | Focus | Context | Status |
+|
 
-![Status](https://img.shields.io/badge/Status-Complete-2EA043?style=flat-square) ![Type](https://img.shields.io/badge/Type-Team_of_4-1D4ED8?style=flat-square) ![Domain](https://img.shields.io/badge/Domain-Banking-6D28D9?style=flat-square)
+---
 
-A four-agent system that helps customers investigate unrecognized or suspicious transactions. It understands the customer's request, analyzes the transaction with **explainable risk indicators**, retrieves banking policy knowledge, and — **only with the customer's approval** — raises a support ticket.
+### 🏦 1 · BankGuard AI
 
-| Agent | Role |
+*Multi-agent banking transaction investigation system*
+
+![Focus](https://img.shields.io/badge/Focus-Agentic_AI%2C_LLMs%2C_RAG-0F172A?style=flat-square)
+![Context](https://img.shields.io/badge/Context-Academic_team_%C2%B7_4_members-1D4ED8?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square)
+
+A multi-agent system that helps banking customers investigate suspicious or unrecognized transactions using language models, explainable risk indicators and banking knowledge retrieval.
+
+| 🤖 Agent | Role |
 |---|---|
-| 🧩 **Customer Understanding** | NLP intent and entity extraction with an LLM |
-| 🔎 **Transaction Analysis** | Explainable risk indicators on the transaction |
-| 📚 **Banking Knowledge Retrieval** | Information retrieval / RAG over a banking knowledge base |
-| 🎫 **Support Escalation & Ticket** | Decision logic and customer-approved ticket creation |
+| 🧩 **Customer Understanding** | LLM-based intent recognition and entity extraction |
+| 🔎 **Transaction Analysis** | Investigation using interpretable risk indicators |
+| 📚 **Banking Knowledge Retrieval** | RAG over banking knowledge |
+| 🎫 **Support Escalation** | Customer-approved support ticket creation |
+
+🏗️ **Architecture:** agents communicate through REST APIs, coordinated by a FastAPI backend. React frontend, MongoDB persistence.
+
+🛡️ **Design principle:** customer approval is required before escalation. The system recommends; the customer decides.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-1D4ED8?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square)
+
+---
+
+### 🏭 2 · Tyre Defect Prediction
+
+*Industrial ML for predictive quality at Michelin Lanka*
+
+![Focus](https://img.shields.io/badge/Focus-Industrial_ML%2C_Predictive_Quality-0F172A?style=flat-square)
+![Context](https://img.shields.io/badge/Context-Michelin_internship-1D4ED8?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In_development-F59E0B?style=flat-square)
+
+Part of a machine-learning initiative to bring tyre defect prediction into Michelin's manufacturing workflow. The broader system is designed to track tyres through manufacturing stages and flag defect risk earlier to support quality decisions.
+
+🎯 **My responsibility — the ML model:**
+- Explored and profiled manufacturing datasets
+- Identified relevant features and defect-related patterns
+- Prepared data for modeling
+- Developed, trained and evaluated predictive models, and worked to improve prediction quality
+- Prepared the model for future integration into the workflow
+
+```text
+Production begins → Data updates → Processing → ML model → Defect-risk prediction → Quality monitoring
+```
+
+> ℹ️ Real-time tracking and manufacturing integration are broader project goals, not something I claim as deployed. My scope is the ML model.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-4338CA?style=flat-square)
+
+---
+
+### 🏬 3 · Retail Data Warehouse & BI Solution
+
+*End-to-end warehouse on Microsoft SQL Server*
+
+![Focus](https://img.shields.io/badge/Focus-ETL%2C_OLAP%2C_Business_Intelligence-0F172A?style=flat-square)
+![Context](https://img.shields.io/badge/Context-Academic_%C2%B7_IT3021-1D4ED8?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square)
+
+Data Warehousing & Business Intelligence module project: a retail warehouse from dimensional model to dashboards.
+
+- ⭐ Dimensional model: star schema with fact and dimension tables
+- 🔄 **SSIS** ETL pipelines
+- 🕰️ **Slowly Changing Dimension Type 2** implementation
+- 🧊 **SSAS** multidimensional OLAP cube with three hierarchies
+- 📊 Excel OLAP analysis and Power BI dashboards
+- 📦 Scale: 185,000+ records
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-0F172A?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+---
+
+### 🏨 4 · Hotel Booking Cancellation Prediction
+
+*Predicting cancellations with tuned tree-based models*
+
+![Focus](https://img.shields.io/badge/Focus-Applied_ML%2C_Predictive_Analytics-0F172A?style=flat-square)
+![Context](https://img.shields.io/badge/Context-Academic_team_project-1D4ED8?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square)
+
+Covers EDA, missing-value handling, feature engineering, hyperparameter tuning and stratified 5-fold cross-validation.
+
+| 🌲 Model | 📈 Evaluation |
+|---|---|
+| Random Forest | Precision 0.766 · Recall 0.547 (confusion matrix, ROC-AUC) |
+| Gradient Boosting | Compared against Random Forest |
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+---
+
+### ⚙️ 5 · Michelin Analytics & Automation
+
+*Enterprise reporting automation at Michelin Lanka*
+
+![Focus](https://img.shields.io/badge/Focus-Enterprise_BI%2C_Data_Automation-0F172A?style=flat-square)
+![Context](https://img.shields.io/badge/Context-Michelin_internship-1D4ED8?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square)
+
+**📋 HR Competency Analytics & Reporting Automation**
+
+```text
+HR Excel upload → SharePoint → Power Automate → Excel transformation → Power BI dataset update → File archiving
+```
+
+- Designed the automated processing workflow end to end
+- Integrated SharePoint, Power Automate and Excel transformations
+- Automated preparation of the Power BI reporting dataset and archiving of processed files
+- ⏱️ **Estimated impact:** about 30–60 minutes of manual effort saved per upload
+
+**🌏 DIBR Asia Dashboard Automation**
+
+- Built Power Automate workflows for periodic dataset updates to the DIBR Asia Power BI dashboard
+- Worked with Michelin's Bangkok-based regional team to adapt Power Automate and Power Apps solutions to Sri Lankan manufacturing needs
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+
+---
+
+### 📈 6 · Verity
+
+*Trustworthy stock forecasting and dip-alert system*
+
+![Focus](https://img.shields.io/badge/Focus-Financial_ML%2C_Time_Series%2C_Trustworthy_AI-0F172A?style=flat-square)
+![Context](https://img.shields.io/badge/Context-Personal_research_project-1D4ED8?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Design_%26_setup_%C2%B7_all_planned-7C3AED?style=flat-square)
+
+> ⚠️ Everything below is planned. Nothing is validated yet.
+
+Detects sharp price drops, estimates the probability of a rebound with a calibrated confidence range and an explanation, flags when it should not be trusted, and sends an email alert only when the model is confident.
+
+Verity is a new, research-first build. It reuses ideas from my earlier **StockFlux** ensemble forecasting project, whose ensemble approach is ported as one baseline.
+
+**🔬 Research questions**
+- Can a calibrated model separate dips that recover from dips that don't?
+- Do pretrained time-series foundation models beat tuned ensembles at this?
+- Do their explanations stay stable when the market regime changes?
+
+**🧱 Planned components** *(v1: daily data, 10–20 tickers, alerts to my own email)*
+
+| Layer | Plan |
+|---|---|
+| 🏁 **Benchmark** | Naive, ARIMA, ensemble, and a foundation model (Chronos-2 or TimesFM), zero-shot first, then LoRA fine-tuned |
+| 📉 **Dip detection** | Drawdown from rolling high in volatility units plus a volume spike, with market-wide vs stock-specific context |
+| 🛡️ **Trust layer** | Calibrated probabilities, conformal prediction intervals, SHAP / attention attribution, drift and regime detection |
+| 🚦 **Alert gate** | Email only if rebound probability, interval lower bound and confidence health all pass thresholds, with per-ticker cooldown |
+| 🖥️ **Product** | FastAPI backend and React dashboard: dip feed, stock detail, watchlist and alerts, track record |
 
 <details>
-<summary><b>🏗️ Architecture & design decisions (click to expand)</b></summary>
+<summary><b>🧪 Evaluation plan</b></summary>
 
 <br/>
 
-- Agents communicate over **REST APIs (HTTP + JSON)**, coordinated by a backend workflow layer — no separate supervisor agent
-- One team member owns each agent, working in parallel against agreed API contracts
-- **Customer approval gate** before any escalation: the system recommends, the customer decides
-- **Explainability first:** risk indicators are surfaced to the customer instead of an opaque score
+- Walk-forward validation on historical data, including 2020 and 2022, plus live forward-only shadow evaluation
+- Leakage checks and Diebold-Mariano significance tests
+- Interval coverage under crash and rate-hike periods
+- Explanation stability across market regimes
+- Alert precision and forward returns against a "buy every dip" baseline, after transaction costs
+- Target outcome: results strong enough for a workshop paper
 
 </details>
 
-**Tech:** `Python` `FastAPI` `React` `MongoDB` `LLM` `RAG`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PEFT](https://img.shields.io/badge/PEFT-FFD21E?style=flat-square)
+![MAPIE / crepes](https://img.shields.io/badge/MAPIE_%2F_crepes-0F172A?style=flat-square)
+![SHAP / Captum](https://img.shields.io/badge/SHAP_%2F_Captum-6D28D9?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DuckDB / Parquet](https://img.shields.io/badge/DuckDB_%2F_Parquet-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
 
-### 📈 2 — StockFlux — Real-Time Ensemble Stock Forecasting
+### 🌊 7 · SafeZone
 
-![Status](https://img.shields.io/badge/Status-Rebuilding-F59E0B?style=flat-square) ![Domain](https://img.shields.io/badge/Domain-Finance-6D28D9?style=flat-square)
+*Real-time disaster management platform*
 
-Real-time stock forecasting using an **ensemble of ML models**, live financial APIs and time-series analysis. It is the base for my final-year research on **explainable forecasting** (SHAP, LIME, attention), and I am rebuilding it from scratch with a fresh direction (**Verity**).
+![Focus](https://img.shields.io/badge/Focus-Full--Stack%2C_Real--Time_Systems-0F172A?style=flat-square)
+![Context](https://img.shields.io/badge/Context-Academic_team_%C2%B7_5_members_%C2%B7_I_was_team_lead-1D4ED8?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square)
 
-**Tech:** `Python` `scikit-learn` `Time Series` `Financial APIs`
+A MERN-stack platform for real-time communication and disaster-response coordination. A notable contribution: diagnosing and fixing a **Socket.io race condition** that affected live updates.
 
----
-
-### 🌊 3 — SafeZone — Disaster Management Platform
-
-![Role](https://img.shields.io/badge/Role-Team_Lead_(5)-1D4ED8?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-MERN-47A248?style=flat-square)
-
-Full-stack platform for coordinating disaster response with real-time updates. I led a team of five and diagnosed and fixed a **Socket.io race condition** affecting live updates.
-
-**Tech:** `MongoDB` `Express` `React` `Node.js` `Socket.io`
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 ---
 
-## 📐 Flagship Project Comparison
+## 🔬 Research
 
-| | 🏦 BankGuard AI | 📈 StockFlux | 🌊 SafeZone |
-|---|---|---|---|
-| **Domain** | Banking | Finance | Disaster management |
-| **Type** | Multi-agent AI | Ensemble ML forecasting | Real-time full-stack |
-| **Core engine** | FastAPI + LLM + RAG | Ensemble models + time series | Node.js + Socket.io |
-| **Data store** | MongoDB | Financial API data | MongoDB |
-| **Frontend** | React | — | React |
-| **My role** | Team member (1 of 4) | Lead | Team lead (5) |
-| **Status** | ✅ Complete | 🔄 Rebuilding as Verity | ✅ Complete |
+### 🧠 Multimodal AI for Epilepsy Outcome Prediction
 
----
+*Final-year research*
 
-## 📊 Data & BI Projects
+![Focus](https://img.shields.io/badge/Focus-Healthcare_AI%2C_Multimodal_ML%2C_Trustworthy_AI-0F172A?style=flat-square)
+![Context](https://img.shields.io/badge/Context-Final--year_research-1D4ED8?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Planning_%26_development-7C3AED?style=flat-square)
 
-### 🏬 Retail Data Warehouse & BI Solution
+*Phenotype-Aware and Uncertainty-Calibrated Multimodal Multi-Task Learning for Joint Seizure and Cognitive Outcome Prediction Across the Epilepsies*
 
-End-to-end warehouse and BI stack built for **IT3021: Data Warehousing & Business Intelligence** at SLIIT.
+Investigates multimodal machine-learning approaches for jointly predicting seizure-related and cognitive outcomes across epilepsy types and syndromes.
 
-<details>
-<summary><b>🔍 Key features & tech details (click to expand)</b></summary>
+**Research focus:** multimodal clinical data integration (EEG, MRI, clinical histories, treatment records, cognitive assessments) · phenotype-aware multi-task learning · missing-modality handling · uncertainty calibration · explainable AI · robustness and subgroup evaluation
 
-<br/>
-
-- **Star schema** on SQL Server with **185,000+ records**
-- **SCD Type 2** history tracking implemented through **SSIS**
-- **SSAS cube** with three hierarchies
-- **Power BI reports** published to Power BI Service
-
-**Tech:** `SQL Server` `SSIS` `SSAS` `Power BI`
-
-</details>
-
-### 🏭 HR Training Analytics Dashboard — Michelin Lanka
-
-Multi-plant dashboard tracking training-target completion and competency scores (1–5), with trend views and plant, department and competency filters.
-
-<details>
-<summary><b>🔍 Key features & tech details (click to expand)</b></summary>
-
-<br/>
-
-- Shared **Excel + Power Query** data architecture feeding Power BI
-- **Power Automate + Office Scripts** to sync training data between Excel files, resolving API throttling
-- Built within a restricted environment (standard libraries only)
-
-**Tech:** `Power BI` `Power Query` `Power Automate` `Office Scripts` `Excel`
-
-</details>
-
-### 🏨 Hotel Cancellation Prediction
-
-Machine-learning model that predicts booking cancellations.
-
-**Tech:** `Python` `scikit-learn`
+> This is an AI/ML research project, not a hospital software platform. Methods and hypotheses are proposed, not validated clinical results.
 
 ---
 
-## 💼 Other Notable Projects
+## 💻 More Projects
 
-| Project | Description | Stack |
+### 🍽️ DineFlow · Restaurant Management Application
+
+![Focus](https://img.shields.io/badge/Focus-Full--Stack%2C_API_Engineering-0F172A?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Under_development-F59E0B?style=flat-square)
+
+Web application covering restaurant categories, menu management, reservations and admin functionality. Some modules are still in progress.
+
+- **Frontend:** React, TypeScript, Vite, Tailwind CSS
+- **Backend:** FastAPI, SQLAlchemy, Alembic · **Database:** PostgreSQL
+- **Also:** Docker, Cloudinary, JWT/cookie-based authentication
+
+🔗 [github.com/Deeghau0816/Dine-Flow](https://github.com/Deeghau0816/Dine-Flow)
+
+### 📚 Academic Projects
+
+| Module | Project | Focus |
 |---|---|---|
-| 🍽️ **[DineFlow](https://github.com/Deeghau0816/Dine-Flow)** | Restaurant workflow application | Full-stack |
-| 📉 **Statistics & Data Analytics (IT3011)** | Correlation and multiple linear regression analysis (r = 0.954, R² = 0.922) | Statistics |
-| ⛏️ **Data Mining Mini Project (IT3051)** | Full data-mining workflow: validation, EDA, 4+ tuned ML algorithms, prediction system | Python · ML |
-| 🧠 **Incubation-Based Problem Solving (IT3071)** | Conceptual AI framework inspired by human incubation in problem solving | Research |
+| IT3051 | **Data Mining Mini Project** | Preprocessing, EDA, feature engineering, model comparison and tuning |
+| IT3011 | **Statistics & Data Analytics** | Correlation and multiple linear regression (r = 0.954, R² = 0.922) |
+| IT3071 | **Incubation-Based Problem Solving** | Conceptual AI framework inspired by human incubation (concept only, not an evaluated system) |
 
-> 📂 More repositories: [github.com/Deeghau0816](https://github.com/Deeghau0816?tab=repositories)
+📂 [All repositories](https://github.com/Deeghau0816?tab=repositories)
 
 ---
 
@@ -219,36 +351,80 @@ Machine-learning model that predicts booking cancellations.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&perline=10" alt="Languages" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Data Science, ML & AI**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-XAI-6D28D9?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM_%2F_RAG-1D4ED8?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-6D28D9?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-1D4ED8?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square)
+![LangChain / LangGraph](https://img.shields.io/badge/LangChain_%2F_LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat-square)
 
-**BI & Warehousing**
+**BI, Data Engineering & Warehousing**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS_%2F_SSAS-CC2927?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![ETL / ELT](https://img.shields.io/badge/ETL_%2F_ELT-0F172A?style=flat-square)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-1D4ED8?style=flat-square)
+![Data Lakes](https://img.shields.io/badge/Data_Lakes-0369A1?style=flat-square)
+![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![HDFS](https://img.shields.io/badge/HDFS-66CCFF?style=flat-square)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-4338CA?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-F59E0B?style=flat-square)
 
 **Backend & Frontend**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,tailwind&perline=10" alt="Backend and frontend" />
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=10" alt="Databases" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Tools & Platforms**
+**Tools, Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&perline=10" alt="Tools" />
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
 
 ---
+
 
 ## 📊 GitHub Stats & Activity
 
@@ -279,6 +455,7 @@ Machine-learning model that predicts booking cancellations.
 
 ### 🎯 Expertise Areas
 
+- ✅ Industrial ML and predictive analytics (Dataiku)
 - ✅ Analytics & BI (Power BI, Power Query, Power Automate)
 - ✅ Data warehousing (star schema, SCD Type 2, SSIS, SSAS)
 - ✅ Machine learning & time-series forecasting
@@ -290,7 +467,7 @@ Machine-learning model that predicts booking cancellations.
 
 ### 🎯 Career Objectives
 
-Seeking **data analyst, data science and ML/AI internships** where I can turn messy data into trusted insight, and building toward **MSc/PhD research in Explainable AI** for high-stakes domains like finance.
+Seeking data analyst, data science and ML/AI internships where I can turn messy data into trusted insight, and building toward MSc/PhD research in Explainable and Trustworthy AI for high-stakes domains like finance and healthcare.
 
 ---
 
