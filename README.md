@@ -423,12 +423,6 @@ Web application covering restaurant categories, menu management, reservations an
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deeghau0816&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%" />
 
-**🐍 Contribution Snake**
-
-<img src="https://raw.githubusercontent.com/Deeghau0816/Deeghau0816/output/snake-violet.svg" alt="Contribution snake" width="100%" />
-
-<sub>Generated every 24 hours by the Platane/snk GitHub Action (see <code>.github/workflows/snake.yml</code>).</sub>
-
 **👾 Pac-Man Contribution Graph**
 
 <img src="https://raw.githubusercontent.com/Deeghau0816/Deeghau0816/arcade/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%" />
