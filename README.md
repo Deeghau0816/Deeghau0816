@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1D4ED8,100:6D28D9&height=230&section=header&text=Deeghau%20Vidarshana&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=AI%2FML%20%C2%B7%20Data%20Engineering%20%C2%B7%20Trustworthy%20AI&descAlignY=62&descSize=17" alt="Deeghau Vidarshana" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:6D28D9&height=240&section=header&text=Deeghau%20Vidarshana&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20Engineer%20%C2%B7%20Data%20Engineer%20%C2%B7%20ML%20Engineer%20%C2%B7%20Software%20Engineer&descColor=BFD7FF&descAlignY=60&descSize=18" alt="Deeghau Vidarshana" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=69CBFF&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate+%40+SLIIT;Data+Analyst+Intern+%40+Michelin+Lanka;Industrial+ML+%C2%B7+Agentic+AI+%C2%B7+Data+Engineering;Researching+Explainable+and+Trustworthy+AI" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=69CBFF&center=true&vCenter=true&width=850&lines=%F0%9F%8E%93+Data+Science+Undergraduate+%40+SLIIT;%F0%9F%92%BC+Data+Analyst+Intern+%40+Michelin+Lanka;%F0%9F%A4%96+AI%2FML+Engineer;%E2%9A%99%EF%B8%8F+Data+Engineer;%F0%9F%93%8A+Data+Analyst;%F0%9F%A7%A0+Machine+Learning+Engineer;%F0%9F%9A%80+AI+Engineer;%F0%9F%8F%AD+Industrial+ML+%C2%B7+Predictive+Analytics;%F0%9F%A4%96+Agentic+AI+%C2%B7+LLMs+%C2%B7+RAG+Systems;%F0%9F%94%AC+AI%2FML+Research+%C2%B7+Multimodal+Learning;%F0%9F%A7%A0+Deep+Learning+%C2%B7+Explainable+AI+%C2%B7+Trustworthy+AI;%E2%9A%99%EF%B8%8F+Data+Engineering+%C2%B7+ETL+%C2%B7+Business+Intelligence;%F0%9F%92%BB+AI-Powered+Software+Development;%F0%9F%8C%8D+Building+Intelligent%2C+Real-World+AI+Solutions" alt="Typing intro" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Deeghau0816&label=Profile+Views&color=6D28D9&style=for-the-badge)
+**Data Science undergraduate and emerging AI/ML engineer**<br/>
+building industrial ML, enterprise analytics, data pipelines and multi-agent AI systems —<br/>
+and explaining what they do and why they can be trusted.
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Deeghau0816&label=Profile+Views&color=6D28D9&style=for-the-badge&base=2146)
 ![Followers](https://img.shields.io/github/followers/Deeghau0816?style=for-the-badge&logo=github&color=1D4ED8)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=netlify&logoColor=white)](https://dashing-torte-98bc97.netlify.app/)
@@ -17,7 +23,7 @@
 
 ---
 
-[About](#-about) · [Timeline](#-career--learning-timeline) · [Experience](#-experience) · [Flagship Projects](#-flagship-projects) · [Research](#-research) · [More Projects](#-more-projects) · [Tech Stack](#%EF%B8%8F-technology-stack) · [Stats](#-github-stats--activity) · [Summary](#-professional-summary) · [Contact](#-connect-with-me)
+[About](#-about) · [Timeline](#-career--learning-timeline) · [Experience](#-experience) · [Flagship Projects](#-flagship-projects) · [More Projects](#-more-projects) · [Tech Stack](#%EF%B8%8F-technology-stack) · [Stats](#-github-stats--activity) · [Summary](#-professional-summary) · [Contact](#-connect-with-me)
 
 ---
 
@@ -27,9 +33,7 @@
 
 - 🎓 **Studying:** BSc (Hons) IT, Data Science specialization, **SLIIT** — entering 4th year in Jan 2027, graduating Dec 2027
 - 💼 **Now:** Data Analyst Intern at **Michelin Lanka** (Ekala Tyre Division), Jun–Dec 2026
-- 🔬 **Research:** final-year project on multimodal AI for epilepsy outcome prediction (planning and development)
 - 🧪 **Building:** **Verity**, a trustworthy stock-forecasting and dip-alert system (design and setup)
-- 🎯 **Goal:** MSc/PhD in Data Science, ML and Explainable AI at a US university
 - 🧠 **Interests:** machine learning, AI/ML engineering, agentic AI, explainable and trustworthy AI, data engineering, business intelligence
 - 📍 **Based in:** Negombo, Sri Lanka
 
@@ -39,10 +43,9 @@
 ## 📈 Career & Learning Timeline
 
 ```text
-2027 ── Graduation (Dec) · MSc/PhD applications (US)
+2027 ── Graduation (Dec)
   │
   ├── Jan 2027 ── 4th year begins · final-year research
-  │       Multimodal AI for epilepsy outcome prediction (planning and development)
   │
 2026 ── Data Analyst Intern @ Michelin Lanka, Ekala Tyre Division (Jun–Dec)
   │       ├─ Tyre Defect Prediction ── ML model development (in development)
@@ -300,26 +303,6 @@ A MERN-stack platform for real-time communication and disaster-response coordina
 
 ---
 
-## 🔬 Research
-
-### 🧠 Multimodal AI for Epilepsy Outcome Prediction
-
-*Final-year research*
-
-![Focus](https://img.shields.io/badge/Focus-Healthcare_AI%2C_Multimodal_ML%2C_Trustworthy_AI-0F172A?style=flat-square)
-![Context](https://img.shields.io/badge/Context-Final--year_research-1D4ED8?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Planning_%26_development-7C3AED?style=flat-square)
-
-*Phenotype-Aware and Uncertainty-Calibrated Multimodal Multi-Task Learning for Joint Seizure and Cognitive Outcome Prediction Across the Epilepsies*
-
-Investigates multimodal machine-learning approaches for jointly predicting seizure-related and cognitive outcomes across epilepsy types and syndromes.
-
-**Research focus:** multimodal clinical data integration (EEG, MRI, clinical histories, treatment records, cognitive assessments) · phenotype-aware multi-task learning · missing-modality handling · uncertainty calibration · explainable AI · robustness and subgroup evaluation
-
-> This is an AI/ML research project, not a hospital software platform. Methods and hypotheses are proposed, not validated clinical results.
-
----
-
 ## 💻 More Projects
 
 ### 🍽️ DineFlow · Restaurant Management Application
@@ -430,7 +413,6 @@ Web application covering restaurant categories, menu management, reservations an
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deeghau0816&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeghau0816&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 **🔥 GitHub Streak**
@@ -443,9 +425,15 @@ Web application covering restaurant categories, menu management, reservations an
 
 **🐍 Contribution Snake**
 
-<img src="https://raw.githubusercontent.com/Deeghau0816/Deeghau0816/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/Deeghau0816/Deeghau0816/output/snake-violet.svg" alt="Contribution snake" width="100%" />
 
 <sub>Generated every 24 hours by the Platane/snk GitHub Action (see <code>.github/workflows/snake.yml</code>).</sub>
+
+**👾 Pac-Man Contribution Graph**
+
+<img src="https://raw.githubusercontent.com/Deeghau0816/Deeghau0816/arcade/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%" />
+
+<sub>Generated every 24 hours by the abozanona/pacman-contribution-graph GitHub Action (see <code>.github/workflows/arcade.yml</code>).</sub>
 
 </div>
 
@@ -467,7 +455,7 @@ Web application covering restaurant categories, menu management, reservations an
 
 ### 🎯 Career Objectives
 
-Seeking data analyst, data science and ML/AI internships where I can turn messy data into trusted insight, and building toward MSc/PhD research in Explainable and Trustworthy AI for high-stakes domains like finance and healthcare.
+Seeking data analyst, data science and ML/AI internships where I can turn messy data into trusted insight, and building toward research in Explainable and Trustworthy AI for high-stakes domains like finance and healthcare.
 
 ---
 
